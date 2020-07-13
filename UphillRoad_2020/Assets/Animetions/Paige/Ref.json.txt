@@ -1,0 +1,32 @@
+{
+"skeleton": { "hash": "JrNXnxrOCZEq7O+Z2MiDE0V0nvw", "spine": "3.8.89", "x": -629.8, "y": -2111.34, "width": 4023.1, "height": 3881.14 },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Animation Run", "bone": "root", "attachment": "Animation Run" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Animation Run": {
+				"Animation Run": { "x": 1381.75, "y": -170.77, "scaleX": 8.0462, "scaleY": 9.4202, "width": 500, "height": 412 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"root": {
+				"translate": [
+					{ "time": 0.8333, "y": 1767.44 },
+					{ "time": 1.1667, "x": -1512.42, "y": 1767.44 },
+					{ "time": 1.3333, "x": -2588.14, "y": 1664.29 }
+				]
+			}
+		}
+	}
+}
+}

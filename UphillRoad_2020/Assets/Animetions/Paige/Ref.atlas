@@ -1,0 +1,13 @@
+
+Ref.png
+size: 504,416
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Animation Run
+  rotate: false
+  xy: 2, 2
+  size: 500, 412
+  orig: 500, 412
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,182 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Animetions/Climbing.meta
+    - Assets/Animetions/Climbing/2D Character Paige.atlas
+    - Assets/Animetions/Climbing/2D Character Paige.atlas.meta
+    - Assets/Animetions/Climbing/2D Character Paige.atlas.txt
+    - Assets/Animetions/Climbing/2D Character Paige.atlas.txt.meta
+    - Assets/Animetions/Climbing/2D Character Paige.json.txt
+    - Assets/Animetions/Climbing/2D Character Paige.json.txt.meta
+    - Assets/Animetions/Climbing/2D Character Paige.png
+    - Assets/Animetions/Climbing/2D Character Paige.png.meta
+    - Assets/Animetions/Climbing/2D Character Paige_Atlas.asset
+    - Assets/Animetions/Climbing/2D Character Paige_Atlas.asset.meta
+    - Assets/Animetions/Climbing/2D Character Paige_Material.mat
+    - Assets/Animetions/Climbing/2D Character Paige_Material.mat.meta
+    - Assets/Animetions/Climbing/ClimbSkeltonData.asset
+    - Assets/Animetions/Climbing/ClimbSkeltonData.asset.meta
+    - Assets/Animetions/Climbing/ReferenceAssets.meta
+    - Assets/Animetions/Climbing/ReferenceAssets/Wall Climb.asset
+    - Assets/Animetions/Climbing/ReferenceAssets/Wall Climb.asset.meta
+    - Assets/Animetions/Climbing/ReferenceAssets/Wall Grab.asset
+    - Assets/Animetions/Climbing/ReferenceAssets/Wall Grab.asset.meta
+    - Assets/Animetions/Climbing/ReferenceAssets/Wall Slide.asset
+    - Assets/Animetions/Climbing/ReferenceAssets/Wall Slide.asset.meta
+    - Assets/Animetions/NewPaige.meta
+    - Assets/Animetions/NewPaige/2D Character Paige SkeltonData.asset
+    - Assets/Animetions/NewPaige/2D Character Paige SkeltonData.asset.meta
+    - Assets/Animetions/NewPaige/2D Character Paige.atlas
+    - Assets/Animetions/NewPaige/2D Character Paige.atlas.meta
+    - Assets/Animetions/NewPaige/2D Character Paige.atlas.txt
+    - Assets/Animetions/NewPaige/2D Character Paige.atlas.txt.meta
+    - Assets/Animetions/NewPaige/2D Character Paige.json.txt
+    - Assets/Animetions/NewPaige/2D Character Paige.json.txt.meta
+    - Assets/Animetions/NewPaige/2D Character Paige.png
+    - Assets/Animetions/NewPaige/2D Character Paige.png.meta
+    - Assets/Animetions/NewPaige/2D Character Paige_Atlas.asset
+    - Assets/Animetions/NewPaige/2D Character Paige_Atlas.asset.meta
+    - Assets/Animetions/NewPaige/2D Character Paige_Material.mat
+    - Assets/Animetions/NewPaige/2D Character Paige_Material.mat.meta
+    - Assets/Animetions/NewPaige/New Animations.rar
+    - Assets/Animetions/NewPaige/New Animations.rar.meta
+    - Assets/Animetions/NewPaige/PaigeAnimatorController.controller
+    - Assets/Animetions/NewPaige/PaigeAnimatorController.controller.meta
+    - Assets/Animetions/NewPaige/ReferenceAssets.meta
+    - Assets/Animetions/NewPaige/ReferenceAssets/Dash.asset
+    - Assets/Animetions/NewPaige/ReferenceAssets/Dash.asset.meta
+    - Assets/Animetions/NewPaige/ReferenceAssets/Death.asset
+    - Assets/Animetions/NewPaige/ReferenceAssets/Death.asset.meta
+    - Assets/Animetions/NewPaige/ReferenceAssets/Gravity Creation.asset
+    - Assets/Animetions/NewPaige/ReferenceAssets/Gravity Creation.asset.meta
+    - Assets/Animetions/NewPaige/ReferenceAssets/HI.asset
+    - Assets/Animetions/NewPaige/ReferenceAssets/HI.asset.meta
+    - Assets/Animetions/NewPaige/ReferenceAssets/Idle 2.asset
+    - Assets/Animetions/NewPaige/ReferenceAssets/Idle 2.asset.meta
+    - Assets/Animetions/NewPaige/ReferenceAssets/Idle.asset
+    - Assets/Animetions/NewPaige/ReferenceAssets/Idle.asset.meta
+    - Assets/Animetions/NewPaige/ReferenceAssets/Jump.asset
+    - Assets/Animetions/NewPaige/ReferenceAssets/Jump.asset.meta
+    - Assets/Animetions/NewPaige/ReferenceAssets/NewPaigeAnimController.controller
+    - Assets/Animetions/NewPaige/ReferenceAssets/NewPaigeAnimController.controller.meta
+    - Assets/Animetions/NewPaige/ReferenceAssets/Walk.asset
+    - Assets/Animetions/NewPaige/ReferenceAssets/Walk.asset.meta
+    - Assets/Animetions/NewPaige/ReferenceAssets/Wall Climb.asset
+    - Assets/Animetions/NewPaige/ReferenceAssets/Wall Climb.asset.meta
+    - Assets/Animetions/NewPaige/ReferenceAssets/Wall Grab.asset
+    - Assets/Animetions/NewPaige/ReferenceAssets/Wall Grab.asset.meta
+    - Assets/Animetions/NewPaige/ReferenceAssets/Wall Slide.asset
+    - Assets/Animetions/NewPaige/ReferenceAssets/Wall Slide.asset.meta
+    - Assets/Editor/SpineSettings.asset
+    - Assets/LevelInfoFiles/101/1st Side Map-1.png (1).png
+    - Assets/LevelInfoFiles/101/1st Side Map-1.png (1).png.meta
+    - Assets/LevelInfoFiles/201/2nd Side Map-1.png (1).png
+    - Assets/LevelInfoFiles/201/2nd Side Map-1.png (1).png.meta
+    - Assets/LevelInfoFiles/201/OldMaps/2nd Side Map.png
+    - Assets/LevelInfoFiles/201/OldMaps/2nd Side Map.png.meta
+    - Assets/LevelInfoFiles/NewSideMaps.meta
+    - Assets/LevelInfoFiles/NewSideMaps.zip
+    - Assets/LevelInfoFiles/NewSideMaps.zip.meta
+    - Assets/LevelInfoFiles/NewSideMaps/1st Side Map-1.png.png
+    - Assets/LevelInfoFiles/NewSideMaps/1st Side Map-1.png.png.meta
+    - Assets/LevelInfoFiles/NewSideMaps/2nd Side Map-1.png.png
+    - Assets/LevelInfoFiles/NewSideMaps/2nd Side Map-1.png.png.meta
+    - Assets/LevelInfoFiles/NewSideMaps/3rd side level-1.png.png
+    - Assets/LevelInfoFiles/NewSideMaps/3rd side level-1.png.png.meta
+    - Assets/Scenes/LevelGeneratorScene.unity
+    - Assets/Scenes/MainMenu.unity
+    - Assets/Shaders/HolowMat.mat
+    - Assets/Sprites/Collectables.meta
+    - Assets/Sprites/Collectables/336d9662cbc5734e7a015e0ba7a2dbd7.jpg
+    - Assets/Sprites/Collectables/336d9662cbc5734e7a015e0ba7a2dbd7.jpg.meta
+    - Assets/Sprites/Collectables/ACFrOgCAhNRT4nu_nl0CGz17Si9XaGXGunF67vRgvK2vOnYmBQUmaHZHXL0Ifh8OMJ8E0GviKXUiB0zW13vSFamvnygbXI27vfie2opBbzJwzTbZ07RNJaz2EWLOgNGZKxMlWvrDej-NrKLftvY3.pdf
+    - Assets/Sprites/Collectables/ACFrOgCAhNRT4nu_nl0CGz17Si9XaGXGunF67vRgvK2vOnYmBQUmaHZHXL0Ifh8OMJ8E0GviKXUiB0zW13vSFamvnygbXI27vfie2opBbzJwzTbZ07RNJaz2EWLOgNGZKxMlWvrDej-NrKLftvY3.pdf.meta
+    - Assets/Sprites/Collectables/FeelingOfPower.jpg
+    - Assets/Sprites/Collectables/FeelingOfPower.jpg.meta
+    - Assets/Sprites/Collectables/HostageMeme.jpg
+    - Assets/Sprites/Collectables/HostageMeme.jpg.meta
+    - Assets/Sprites/Collectables/Monday.jpg
+    - Assets/Sprites/Collectables/Monday.jpg.meta
+    - Assets/Sprites/Collectables/i-miss-the-internet-john-nhor-thank-you-bred-sheeran-66515506.png
+    - Assets/Sprites/Collectables/i-miss-the-internet-john-nhor-thank-you-bred-sheeran-66515506.png.meta
+    - Assets/Sprites/Hazards/Barbed Wire.png
+    - Assets/Sprites/Hazards/Barbed Wire.png.meta
+    - Assets/Sprites/Main menu Screen V3.jpg
+    - Assets/Sprites/Main menu Screen V3.jpg.meta
+    - Assets/Sprites/Misc/Assets/Crystal 1.png
+    - Assets/Sprites/Misc/Assets/Crystal 1.png.meta
+    - Assets/Sprites/Misc/Assets/Crystal 2.png
+    - Assets/Sprites/Misc/Assets/Crystal 2.png.meta
+    - Assets/Sprites/UI/LevelOneScene.png
+    - Assets/Sprites/UI/LevelOneScene.png.meta
+    - Assets/Sprites/UI/Square 2.png
+    - Assets/Sprites/UI/Square 2.png.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+    - Assets/Tiles/Tiles/NewTiles/Spikes down left.png
+    - Assets/Tiles/Tiles/NewTiles/Spikes down left.png.meta
+    - Assets/Tiles/Tiles/NewTiles/Spikes down right.png
+    - Assets/Tiles/Tiles/NewTiles/Spikes down right.png.meta
+    - Assets/Tiles/Tiles/NewTiles/Spikes up left.png
+    - Assets/Tiles/Tiles/NewTiles/Spikes up left.png.meta
+    - Assets/Tiles/Tiles/NewTiles/Spikes up right.png
+    - Assets/Tiles/Tiles/NewTiles/Spikes up right.png.meta
+    - Assets/Tiles/Tiles/NewTiles/de59ad2da7c141c45895fd2ad6371b93.png
+    - Assets/Tiles/Tiles/NewTiles/de59ad2da7c141c45895fd2ad6371b93.png.meta
+    - Assets/_Prefabs/Level Generator/Hazards/EndOfScreen.prefab
+    - Assets/_Prefabs/Level Generator/Hazards/FallingGround.prefab
+    - Assets/_Prefabs/Level Generator/Hazards/SpikesHazzard.prefab
+    - Assets/_Prefabs/Level Generator/Key.prefab
+    - Assets/_Prefabs/Level Generator/Key.prefab.meta
+    - Assets/_Prefabs/Level Generator/LeftPortal.prefab
+    - Assets/_Prefabs/Level Generator/MidelPortal.prefab
+    - Assets/_Prefabs/Level Generator/Photo.prefab
+    - Assets/_Prefabs/Level Generator/Photo.prefab.meta
+    - Assets/_Prefabs/Level Generator/RightPortal.prefab
+    - Assets/_Prefabs/Level Manager/LevelManger.prefab
+    - Assets/_Prefabs/Level Manager/LevelMangerNew.prefab
+    - Assets/_Prefabs/Level Manager/LevelMangerNew.prefab.meta
+    - Assets/_Prefabs/Player/Player.prefab
+    - Assets/_Prefabs/Player/PlayerV.2.prefab
+    - Assets/_Prefabs/Player/PlayerV.2.prefab.meta
+    - Assets/_Prefabs/UI/CollectablePanel.prefab
+    - Assets/_Prefabs/UI/CollectablePanel.prefab.meta
+    - Assets/_Prefabs/UI/PauseMenu.prefab
+    - Assets/_Prefabs/UI/PauseMenu.prefab.meta
+    - Assets/_Scripts/Gravity/GravityCreator.cs
+    - Assets/_Scripts/Gravity/GravityField.cs
+    - Assets/_Scripts/Hazards/FallingGround.cs
+    - Assets/_Scripts/Level Generator/Collectable.cs
+    - Assets/_Scripts/Level Generator/HazzardsSpriteManager.cs
+    - Assets/_Scripts/Level Generator/LevelGenerator.cs
+    - Assets/_Scripts/Level Generator/TilesStateMachine.cs
+    - Assets/_Scripts/Level Manager/LevelInfo.cs
+    - Assets/_Scripts/Level Manager/LevelManager.cs
+    - Assets/_Scripts/LightColorController.cs
+    - Assets/_Scripts/Player/Collision.cs
+    - Assets/_Scripts/Player/FollowPlayer.cs
+    - Assets/_Scripts/Player/Movement.cs
+    - Assets/_Scripts/Player/PlayerCollector.cs
+    - Assets/_Scripts/SceneTransitions.cs
+    - Assets/_Scripts/UI/TuturialUI.cs
+    - Packages/manifest.json
+    - ProjectSettings/TagManager.asset
+    - 
+    m_Values: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0

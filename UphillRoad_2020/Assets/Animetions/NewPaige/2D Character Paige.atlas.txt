@@ -1,0 +1,202 @@
+
+2D Character Paige.png
+size: 1499,1499
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bot Leg L
+  rotate: false
+  xy: 1175, 398
+  size: 137, 194
+  orig: 137, 194
+  offset: 0, 0
+  index: -1
+Bot Leg R
+  rotate: false
+  xy: 1175, 398
+  size: 137, 194
+  orig: 137, 194
+  offset: 0, 0
+  index: -1
+Ellipse 1
+  rotate: false
+  xy: 671, 53
+  size: 226, 420
+  orig: 226, 420
+  offset: 0, 0
+  index: -1
+Glove L1
+  rotate: false
+  xy: 858, 545
+  size: 293, 420
+  orig: 293, 420
+  offset: 0, 0
+  index: -1
+Glove L2
+  rotate: true
+  xy: 2, 80
+  size: 327, 420
+  orig: 327, 420
+  offset: 0, 0
+  index: -1
+Glove L3
+  rotate: false
+  xy: 1157, 1077
+  size: 327, 420
+  orig: 327, 420
+  offset: 0, 0
+  index: -1
+L Eye
+  rotate: false
+  xy: 2, 31
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+L Hand Box
+  rotate: false
+  xy: 1408, 464
+  size: 87, 129
+  orig: 87, 129
+  offset: 0, 0
+  index: -1
+L Hand Closed
+  rotate: false
+  xy: 1418, 220
+  size: 79, 98
+  orig: 79, 98
+  offset: 0, 0
+  index: -1
+Layer 17
+  rotate: false
+  xy: 688, 967
+  size: 467, 530
+  orig: 467, 530
+  offset: 0, 0
+  index: -1
+Layer 30
+  rotate: false
+  xy: 2, 900
+  size: 684, 597
+  orig: 684, 597
+  offset: 0, 0
+  index: -1
+Layer 31
+  rotate: false
+  xy: 2, 409
+  size: 544, 489
+  orig: 544, 489
+  offset: 0, 0
+  index: -1
+Layer 36
+  rotate: false
+  xy: 1340, 320
+  size: 85, 121
+  orig: 85, 121
+  offset: 0, 0
+  index: -1
+Layer 48
+  rotate: false
+  xy: 1325, 67
+  size: 91, 199
+  orig: 91, 199
+  offset: 0, 0
+  index: -1
+Layer 49
+  rotate: false
+  xy: 1314, 443
+  size: 92, 149
+  orig: 92, 149
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 548, 475
+  size: 308, 423
+  orig: 308, 423
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 424, 38
+  size: 245, 369
+  orig: 245, 369
+  offset: 0, 0
+  index: -1
+Mid L Back
+  rotate: false
+  xy: 1232, 66
+  size: 91, 200
+  orig: 91, 200
+  offset: 0, 0
+  index: -1
+Mid Leg L
+  rotate: true
+  xy: 1132, 57
+  size: 200, 98
+  orig: 200, 98
+  offset: 0, 0
+  index: -1
+Mid Leg R
+  rotate: false
+  xy: 1175, 268
+  size: 163, 128
+  orig: 163, 128
+  offset: 0, 0
+  index: -1
+Part 1
+  rotate: true
+  xy: 1080, 259
+  size: 284, 93
+  orig: 284, 93
+  offset: 0, 0
+  index: -1
+R Eye
+  rotate: false
+  xy: 688, 917
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+Shoe L
+  rotate: false
+  xy: 899, 38
+  size: 231, 177
+  orig: 231, 177
+  offset: 0, 0
+  index: -1
+Shoe R
+  rotate: false
+  xy: 899, 38
+  size: 231, 177
+  orig: 231, 177
+  offset: 0, 0
+  index: -1
+Top Hand L
+  rotate: false
+  xy: 1153, 594
+  size: 164, 300
+  orig: 164, 300
+  offset: 0, 0
+  index: -1
+Top Hand R
+  rotate: false
+  xy: 1319, 595
+  size: 164, 299
+  orig: 164, 299
+  offset: 0, 0
+  index: -1
+Top Leg L
+  rotate: false
+  xy: 899, 217
+  size: 179, 326
+  orig: 179, 326
+  offset: 0, 0
+  index: -1
+Top Leg R
+  rotate: true
+  xy: 1157, 896
+  size: 179, 322
+  orig: 179, 322
+  offset: 0, 0
+  index: -1

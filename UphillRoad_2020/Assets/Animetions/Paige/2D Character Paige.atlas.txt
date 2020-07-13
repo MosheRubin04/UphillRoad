@@ -1,0 +1,146 @@
+
+2D Character Paige.png
+size: 1853,907
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bot Leg L
+  rotate: false
+  xy: 1452, 3
+  size: 134, 192
+  orig: 137, 194
+  offset: 2, 1
+  index: -1
+Bot Leg R
+  rotate: false
+  xy: 1452, 3
+  size: 134, 192
+  orig: 137, 194
+  offset: 2, 1
+  index: -1
+Ellipse 1
+  rotate: true
+  xy: 686, 193
+  size: 224, 418
+  orig: 226, 420
+  offset: 1, 1
+  index: -1
+Layer 17
+  rotate: true
+  xy: 1230, 441
+  size: 464, 528
+  orig: 467, 530
+  offset: 1, 1
+  index: -1
+Layer 30
+  rotate: false
+  xy: 2, 328
+  size: 682, 577
+  orig: 684, 597
+  offset: 1, 19
+  index: -1
+Layer 31
+  rotate: false
+  xy: 686, 419
+  size: 542, 486
+  orig: 544, 489
+  offset: 1, 1
+  index: -1
+Layer 36
+  rotate: false
+  xy: 601, 208
+  size: 83, 118
+  orig: 85, 121
+  offset: 1, 2
+  index: -1
+Layer 48
+  rotate: false
+  xy: 1760, 425
+  size: 87, 197
+  orig: 91, 199
+  offset: 2, 1
+  index: -1
+Layer 49
+  rotate: false
+  xy: 1760, 278
+  size: 90, 145
+  orig: 92, 149
+  offset: 1, 2
+  index: -1
+Layer 7
+  rotate: true
+  xy: 2, 21
+  size: 305, 419
+  orig: 308, 423
+  offset: 2, 2
+  index: -1
+Layer 8
+  rotate: true
+  xy: 1230, 197
+  size: 242, 366
+  orig: 245, 369
+  offset: 2, 2
+  index: -1
+Mid Leg L
+  rotate: true
+  xy: 1106, 221
+  size: 196, 95
+  orig: 200, 98
+  offset: 2, 1
+  index: -1
+Mid Leg R
+  rotate: false
+  xy: 1588, 13
+  size: 160, 126
+  orig: 163, 128
+  offset: 1, 1
+  index: -1
+Part 1
+  rotate: true
+  xy: 1760, 624
+  size: 281, 91
+  orig: 284, 93
+  offset: 1, 1
+  index: -1
+Shoe L
+  rotate: false
+  xy: 923, 17
+  size: 229, 174
+  orig: 231, 177
+  offset: 1, 2
+  index: -1
+Shoe R
+  rotate: false
+  xy: 923, 17
+  size: 229, 174
+  orig: 231, 177
+  offset: 1, 2
+  index: -1
+Top Hand L
+  rotate: false
+  xy: 1598, 141
+  size: 160, 298
+  orig: 164, 300
+  offset: 2, 1
+  index: -1
+Top Hand R
+  rotate: true
+  xy: 1154, 35
+  size: 160, 296
+  orig: 164, 299
+  offset: 2, 2
+  index: -1
+Top Leg L
+  rotate: false
+  xy: 423, 2
+  size: 176, 324
+  orig: 179, 326
+  offset: 2, 1
+  index: -1
+Top Leg R
+  rotate: true
+  xy: 601, 15
+  size: 176, 320
+  orig: 179, 322
+  offset: 2, 1
+  index: -1
